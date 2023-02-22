@@ -17,6 +17,15 @@ This is a brief overview of what was learned during the winter internship at ITI
 * Advanced features of Power BI, such as DAX formulas and M language formulas
 * Transforming data using Power Query.
 
+##### Adventure Works Dashboard
+![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Adventure%20Works%20Dashboard.png)
+
+##### Kickstarters Dashboard
+![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Kickstarters%20Project.png)
+
+##### Facebook Dashboard
+![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Facebook%20Dashboard.png)
+
 #### Tableau
 
 * Creating and publishing visualizations on Tableau Public
