@@ -18,9 +18,15 @@ This is a brief overview of what was learned during the winter internship at ITI
 * Transforming data using Power Query.
 
 ##### Adventure Works Dashboard
+
+Dataset: [Adventure Work Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Adventure%20Works%20Dashboard.png)
 
 ##### Kickstarters Dashboard
+
+Dataset: [Kickstarters on Kaggle](https://www.kaggle.com/kemical/kickstarter-projects)
+
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Kickstarters%20Project.png)
 
 ##### Facebook Dashboard : Just For fun :)
@@ -36,6 +42,11 @@ This is a brief overview of what was learned during the winter internship at ITI
 
 
 ##### Sales Dashboard
+
+Dataset 1 : [Sales Dataset](https://docs.google.com/spreadsheets/d/1QXCtruxtvcZ2eOUAcz7AaPrMkJQYq2PW/edit#gid=438098902)
+
+Dataset 2 :[ Hexmap Dataset](https://docs.google.com/spreadsheets/d/1x8Oqr_YB-SAtwH8sown1vpp-vtUESqgV/edit#gid=1134429245)
+
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/Tableau/Sales%20Dashboard.png)
 
 Also see: [Tableau Public published Dashboard](https://public.tableau.com/app/profile/sara.sherif.daoud.saad2133/viz/SalesDashboard_16765680522160/SalesDashboard?publish=yes).
