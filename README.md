@@ -30,6 +30,9 @@ Dataset: [Kickstarters on Kaggle](https://www.kaggle.com/kemical/kickstarter-pro
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Kickstarters%20Project.png)
 
 ##### Facebook Dashboard : Just For fun :)
+
+Used Graph API to collect Data about my personal account.
+
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/PowerBI/Facebook%20Dashboard.png)
 
 #### Tableau
