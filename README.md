@@ -13,7 +13,7 @@ This is a brief overview of what was learned during the winter internship at ITI
 #### Power BI
 
 * Publishing reports on Power BI Report Server and Power BI Service.
-* Acquiring data from various sources such as csv files, exel sheets API and databases
+* Acquiring data from various sources and of various types such as csv files, excel sheets, API ,and databases
 * Advanced features of Power BI, such as DAX formulas and M language formulas
 * Transforming data using Power Query.
 
