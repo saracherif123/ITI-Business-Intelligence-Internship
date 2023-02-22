@@ -33,7 +33,9 @@ This is a brief overview of what was learned during the winter internship at ITI
 * Advanced features of Tableau, such as calculated fields and mapping
 
 
+
+
 ##### Sales Dashboard
 ![Image](https://github.com/saracherif123/ITI-Business-Intelligence-Internship/blob/main/Tableau/Sales%20Dashboard.png)
 
-
+Also see: [Tableau Public published Dashboard](https://public.tableau.com/app/profile/sara.sherif.daoud.saad2133/viz/SalesDashboard_16765680522160/SalesDashboard?publish=yes).
