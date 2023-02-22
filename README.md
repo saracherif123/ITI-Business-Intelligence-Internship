@@ -1,9 +1,9 @@
 # ITI-Business-Intelligence-Internship
 ## Introduction
 
-This is a brief overview of what was learned during the winter internship at ITI Business Intelligence Track over the corse of 10 days.
+This is a brief overview of what was learned during the winter internship at ITI Business Intelligence Track over the course of 10 days.
 
-## The training consisted of 3 courses thiough which we acquired the following skills:
+## The training consisted of 3 courses through which we acquired the following skills:
 
 #### Microsoft SQL Server
 * Refreshing relational databases and SQL knowledge
